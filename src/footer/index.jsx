@@ -66,7 +66,7 @@ const Footer = () => {
 <li>
 <div className="foo-social">
 <a href="#"><span><i className="far fa-envelope"></i></span>
-<p><span className="__cf_email__" data-cfemail="2d44434b426d48554c405d4148034e4240">[email&#160;protected]</span></p></a>
+<p><span className="__cf_email__" data-cfemail="2d44434b426d48554c405d4148034e4240">[email&nbsp;protected]</span></p></a>
 </div>
 </li>
 <li>

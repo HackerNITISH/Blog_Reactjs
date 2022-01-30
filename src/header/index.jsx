@@ -16,7 +16,7 @@ const Header = () => {
 <div className="container">
 <div className="header-area d-flex flex-wrap justify-content-between">
 <div className="logo">
-<a href="index.html"><img src="assets/img/logo.png" alt="" width="216" height="39" /></a>
+<NavLink to="/"><img src="assets/img/logo.png" alt="" width="216" height="39" /></NavLink>
 </div>
 <div className="menu-area d-flex flex-wrap">
 <nav className="main-menu">

@@ -1,0 +1,42 @@
+{"data":[
+    {
+        "id":"General",
+        "question1":"01. What payment methods are accepted ?",
+        "question2":"02. How long will it take to get my package?",
+        "question3":"03. How do I place a order?",
+        "discription1":"Sed ut est turpis. Duis risus enim, commodo sed ante sit amet, hendrerit euismod arcu. Donec velit leo, faucibus nec dui et, volutpat ornare dolor. Nam eget rhoncus dolor. Praesent id sem rhoncus, tempor eros porttitor, efficitur magna",
+        "discription2":"Sed ut est turpis. Duis risus enim, commodo sed ante sit amet, hendrerit euismod arcu. Donec velit leo, faucibus nec dui et, volutpat ornare dolor. Nam eget rhoncus dolor. Praesent id sem rhoncus, tempor eros porttitor, efficitur magna.",
+        "discription3":"Sed ut est turpis. Duis risus enim, commodo sed ante sit amet, hendrerit euismod arcu. Donec velit leo, faucibus nec dui et, volutpat ornare dolor. Nam eget rhoncus dolor. Praesent id sem rhoncus, tempor eros porttitor, efficitur magna."
+    },
+    {
+        "id":"Token",
+        "question1":"01. What payment methods are accepted ?",
+        "question2":"02. How long will it take to get my package?",
+        "question3":"03. How do I place a order?",
+        "discription1":"Sed ut est turpis. Duis risus enim, commodo sed ante sit amet, hendrerit euismod arcu. Donec velit leo, faucibus nec dui et, volutpat ornare dolor. Nam eget rhoncus dolor. Praesent id sem rhoncus, tempor eros porttitor, efficitur magna",
+        "discription2":"Sed ut est turpis. Duis risus enim, commodo sed ante sit amet, hendrerit euismod arcu. Donec velit leo, faucibus nec dui et, volutpat ornare dolor. Nam eget rhoncus dolor. Praesent id sem rhoncus, tempor eros porttitor, efficitur magna.",
+        "discription3":"Sed ut est turpis. Duis risus enim, commodo sed ante sit amet, hendrerit euismod arcu. Donec velit leo, faucibus nec dui et, volutpat ornare dolor. Nam eget rhoncus dolor. Praesent id sem rhoncus, tempor eros porttitor, efficitur magna."
+    },
+    {
+        "id":"Bitcoin",
+        "question1":"01. What payment methods are accepted ?",
+        "question2":"02. How long will it take to get my package?",
+        "question3":"03. How do I place a order?",
+        "discription1":"Sed ut est turpis. Duis risus enim, commodo sed ante sit amet, hendrerit euismod arcu. Donec velit leo, faucibus nec dui et, volutpat ornare dolor. Nam eget rhoncus dolor. Praesent id sem rhoncus, tempor eros porttitor, efficitur magna",
+        "discription2":"Sed ut est turpis. Duis risus enim, commodo sed ante sit amet, hendrerit euismod arcu. Donec velit leo, faucibus nec dui et, volutpat ornare dolor. Nam eget rhoncus dolor. Praesent id sem rhoncus, tempor eros porttitor, efficitur magna.",
+        "discription3":"Sed ut est turpis. Duis risus enim, commodo sed ante sit amet, hendrerit euismod arcu. Donec velit leo, faucibus nec dui et, volutpat ornare dolor. Nam eget rhoncus dolor. Praesent id sem rhoncus, tempor eros porttitor, efficitur magna."
+    },
+     {
+        "id":"Crypto",
+        "question1":"01. What payment methods are accepted ?",
+        "question2":"02. How long will it take to get my package?",
+        "question3":"03. How do I place a order?",
+        "discription1":"Sed ut est turpis. Duis risus enim, commodo sed ante sit amet, hendrerit euismod arcu. Donec velit leo, faucibus nec dui et, volutpat ornare dolor. Nam eget rhoncus dolor. Praesent id sem rhoncus, tempor eros porttitor, efficitur magna",
+        "discription2":"Sed ut est turpis. Duis risus enim, commodo sed ante sit amet, hendrerit euismod arcu. Donec velit leo, faucibus nec dui et, volutpat ornare dolor. Nam eget rhoncus dolor. Praesent id sem rhoncus, tempor eros porttitor, efficitur magna.",
+        "discription3":"Sed ut est turpis. Duis risus enim, commodo sed ante sit amet, hendrerit euismod arcu. Donec velit leo, faucibus nec dui et, volutpat ornare dolor. Nam eget rhoncus dolor. Praesent id sem rhoncus, tempor eros porttitor, efficitur magna."
+    }
+  
+]
+}
+
+

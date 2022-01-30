@@ -29,7 +29,8 @@ function App() {
       <Route path="/contact" element={< Contactpage/>}/>
       <Route path="/member" element={< Member/>}/>
       <Route path="/faq" element={<Frequentaq/>}/>
-      <Route path="/error" element={<Error/>}/>
+      
+      <Route path="*" element={<Error/>}/>
       <Route path="/t&c" element={<Termcondition/>}/>
       <Route path="/PrivacyPolicy" element={<Privecy/>}/>
       <Route path="/hometwo" element={<Hometwo/>}/>
@@ -37,8 +38,6 @@ function App() {
       <Route path="/blog" element={<Blog/>}/>
       <Route path="/blog2" element={<Blogtwo/>}/>
       <Route path="/singleblog" element={<Singleblog/>}/>
-
-
 
 
 

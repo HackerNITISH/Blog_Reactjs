@@ -22,7 +22,7 @@ const Contact = () => {
 <li>
 <div className="social-row">
 <a href="#"><span><i className="far fa-envelope"></i></span>
-<p><span className="__cf_email__" data-cfemail="89e0e7efe6c9ecf1e8e4f9e5eca7eae6e4">[email&#160;protected]</span></p></a>
+<p><span className="__cf_email__" data-cfemail="89e0e7efe6c9ecf1e8e4f9e5eca7eae6e4" style={{width:"157px",background:"white",color:"currentcolor"}}>[email&#160;protected]</span></p></a>
 </div>
 </li>
 <li>
