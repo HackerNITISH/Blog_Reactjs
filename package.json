@@ -1,7 +1,6 @@
 {
   "name": "template1",
   "version": "0.1.0",
-  "homepage": "https://webGalaxies.github.io/Blog_Reactjs",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
@@ -14,8 +13,7 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
